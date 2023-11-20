@@ -4,6 +4,6 @@ Currently learning to program at a coding boot camp, Technigo.
 
 My hobby is now programming 　 💻 , so other hobbies are not active at the moment 🤪
 
-My current focus on learning languages/frameworks/libraries is React/TS/JS/Node.js/Next.js/.
+React/TS/JS/Next.js/Astro/Tailwind/SCSS/Node.js/C/Python/Three.js...
 
 ![Codewars](https://github.r2v.ch/codewars?user=sansan-sakura&stroke=blue)

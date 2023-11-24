@@ -8,4 +8,4 @@
   
 - 📃 On my list: C/Python/Three.js...
 
-   ![Codewars](https://github.r2v.ch/codewars?user=sansan-sakura&stroke=blue)
+   ![Codewars](https://github.r2v.ch/codewars?user=sansan-sakura&stroke=orange)

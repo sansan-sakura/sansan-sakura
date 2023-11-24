@@ -1,9 +1,11 @@
 # I am Sakura 🌸
 
-Currently learning to program at a coding boot camp, Technigo.
+- ⛳️ Currently learning to program at a coding boot camp, Technique.
 
-My hobby is now programming 　 💻 , so other hobbies are not active at the moment 🤪
+- ❤️ My hobby is now programming 　 💻 , so other hobbies are not active at the moment 🤪
 
-React/TS/JS/Next.js/Astro/Tailwind/SCSS/Node.js/C/Python/Three.js...
+- 🛠️ Techs: React/TS/JS/Tailwind/SCSS/Node.js/Next.js
+  
+- 📃 On my list: C/Python/Three.js...
 
 ![Codewars](https://github.r2v.ch/codewars?user=sansan-sakura&stroke=blue)

@@ -1,4 +1,4 @@
-  # I am Sakura 🌸
+  # Hej! I'm Sakura.
 
 - 🇯🇵 Becoming a programming nerd/ 三度の飯よりプログラミングが好きです👀
   

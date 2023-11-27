@@ -10,4 +10,4 @@
   
 - 📃 On my list: C/Python/Three.js...
 
-   ![Codewars](https://github.r2v.ch/codewars?user=sansan-sakura&stroke=orange)
+   ![Codewars](https://github.r2v.ch/codewars?user=sansan-sakura&stroke=orange&background=#fff)

@@ -6,6 +6,6 @@
   
 - 📃 On my list: C/Python/Three.js...
 
-- https://wakatime.com/badge/user/018b39cb-5bb6-406b-871b-4c8a22aebee9.svg
+- <img src="https://wakatime.com/badge/user/018b39cb-5bb6-406b-871b-4c8a22aebee9.svg"/>
 
 

@@ -1,4 +1,4 @@
-                 # Hej! I'm Sakura.
+ #                      Hej!  I'm Sakura.
   
 - 💻 Currently learning to program at a coding boot camp, Technigo.
 

@@ -1,10 +1,15 @@
  #                      Hej!  I'm Sakura.
-  
-- 💻 Currently learning to program at a coding boot camp, Technigo.
 
-- 🛠️ Techs: React/TS/JS/Tailwind/SCSS/Node.js/Next.js
-  
-- 📃 On my list: C/Python/Three.js...
+
+-  🤖 I am a curious human being who loves to learn new things. Leaning is my best hobby 🌸 and I also love to be in nature with my children ⛺️
+-  🦔 I believe in Scrates's quote 'I know that I know nothing', therefore I like to ask myself always "Why" to at least understand/know a bit more. 
+-  🛠️ Techs: React/ TS/ JS/ Tailwind/ SCSS/ Node.js/ Next.js/ SSR/ Express
+-  📕 Currently learning:  PHP/WordPress while deepening my knowledge of TS/ React/ Next.js and programming skills in general.
+-  ✨ Graduated from Technigo, a coding boot camp in Sweden, 01.2024.
+-  🚁 Working as a Freelancer developer while actively looking for a full-time job.
+
+
+
 
 
 

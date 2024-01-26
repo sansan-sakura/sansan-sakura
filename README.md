@@ -1,7 +1,7 @@
  #                      Hej!  I'm Sakura.
 
 
--  🤖 I am a curious human being who loves to learn new things. Leaning is my best hobby 🌸 and I also love to be in nature with my children ⛺️
+-  🤖 I am a curious human being who loves to learn new things. Leaning is my best hobby but I also love to be in nature with my children ⛺️
 -  🦔 I believe in Scrates's quote 'I know that I know nothing', therefore I like to ask myself always "Why" to at least understand/know a bit more. 
 -  🛠️ Techs: React/ TS/ JS/ Tailwind/ SCSS/ Node.js/ Next.js/ SSR/ Express
 -  📕 Currently learning:  PHP/WordPress while deepening my knowledge of TS/ React/ Next.js and programming skills in general.

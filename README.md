@@ -17,7 +17,7 @@
 
   
   + ✨  Graduated from Technigo, a coding boot camp in Sweden, 01.2024.
-  + 🚁 Working as a Freelance developer while actively looking for a full-time job and studying information and management at a distance university part-time.
+
 
  
 

@@ -1,7 +1,6 @@
  #  Hej  I'm Sakura.
 
-I am a full-stack developer based in Norrbotten, Sweden 🇸🇪 I used to create delicious and beautiful French pastries, and now I create something fun, useful, high-performance, and pixel-perfect! 
-I also write some articles on Medium.
+I am a full-stack developer based in Norrbotten, Sweden 🇸🇪 I used to make delicious and beautiful French pastries, and now I make something fun, high-performance, and pixel-perfect! I also do a bit of writing on Medium.
 
 <br>
  <div style={{display:flex}> 

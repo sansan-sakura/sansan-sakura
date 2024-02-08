@@ -6,7 +6,6 @@ I am a full-stack developer based in Norrbotten, Sweden 🇸🇪 I used to make 
  <div style={{display:flex}> 
 <a href="https://medium.com/@sito6496t"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
   <a href="https://www.codewars.com/users/sansan-sakura"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" /></a>
- <a href="https://www.linkedin.com/in/sakura-tanaka-251a36247/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <a href="https://sakura-tanaka.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" /></a>
  </div>
 

@@ -2,6 +2,7 @@
 
 I am a full-stack developer based in Norrbotten, Sweden 🇸🇪 I used to make delicious and beautiful French pastries, and now I make something fun, high-performance, and pixel-perfect! I also do a bit of writing on Medium.
 
+
 <br>
  <div style={{display:flex}> 
 <a href="https://medium.com/@sito6496t"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>

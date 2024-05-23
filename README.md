@@ -1,4 +1,4 @@
- #  Hej  I'm Sakura.
+ #  Hej !  I'm Sakura. 🤖
 
 I am a full-stack developer based in Norrbotten, Sweden 🇸🇪 I used to make delicious and beautiful French pastries, and now I make something fun, high-performance, and pixel-perfect! I also do a bit of writing on Medium.
 
@@ -12,19 +12,20 @@ I am a full-stack developer based in Norrbotten, Sweden 🇸🇪 I used to make 
 
 <br>
 
-Some of my recent articles:
+### Some of my recent articles:
  -  <a href="https://medium.com/@sito6496t/how-to-make-a-carousel-from-scratch-as-a-react-beginner-a58250aaf1ab">How to make a carousel from scratch as a React Beginner</a>
  -  <a href="https://medium.com/@sito6496t/my-self-healing-journey-from-an-eating-disorder-and-what-i-learned-from-it-3ab86309554e">My self-healing journey from an eating disorder and what I learned from it.</a>
  -  <a href="https://medium.com/@sito6496t/how-to-fetch-multiple-apis-c59fec9076e2"><p>How to make your website internationalized without react-i18n</p></a>
 
 
-<br>
+### About Me
 
->   I am a curious human being who loves to learn new things.
->  I believe in Scrates's quote 'I know that I know nothing', therefore I like to ask myself always "Why" to at least understand/know a bit more.
-> 
+* Graduated from Bootcamp on Jan.2024 (Technigo)
+* Doing Intern at <a href="https://cli.greencarlane.com/">GreenCarLane</a>
+* Working as freelancer at <a href="https://www.plusclass-sports-incubation.co.jp/">PSI</a>
+* Love gardening and nature as much as programming 🌿🌱
+* Enjoy good coffee ☕️
 
-<hr/>
 
  
 <div>

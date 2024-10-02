@@ -21,8 +21,6 @@ I am a full-stack developer based in Norrbotten, Sweden 🇸🇪 I used to make 
 ### About Me
 
 * Graduated from Bootcamp on Jan.2024 (Technigo)
-* Working at <a href="https://cli.greencarlane.com/">GreenCarLane</a>
-* Working as freelancer at <a href="https://www.plusclass-sports-incubation.co.jp/">PSI</a>
 * Working on <a href="https://github.com/Coffee-Nerds">Coffee Nerds</a>
 * Love gardening and nature as much as programming 🌿🌱
 * Enjoy good coffee ☕️

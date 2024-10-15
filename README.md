@@ -20,6 +20,7 @@ I am a full-stack developer based in Norrbotten, Sweden 🇸🇪 I used to make 
 
 ### About Me
 
+* Freelance at Ingka (IKEA) since 10.2024
 * Graduated from Bootcamp on Jan.2024 (Technigo)
 * Working on <a href="https://github.com/Coffee-Nerds">Coffee Nerds</a>
 * Love gardening and nature as much as programming 🌿🌱

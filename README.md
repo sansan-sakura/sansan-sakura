@@ -18,13 +18,6 @@ I am a full-stack developer based in Norrbotten, Sweden 🇸🇪 I used to make 
  -  <a href="https://medium.com/@sito6496t/how-to-fetch-multiple-apis-c59fec9076e2"><p>How to make your website internationalized without react-i18n</p></a>
 
 
-### About Me
-
-* Freelance at Ingka (IKEA) since 10.2024
-* Graduated from Bootcamp on Jan.2024 (Technigo)
-* Working on <a href="https://github.com/Coffee-Nerds">Coffee Nerds</a>
-* Love gardening and nature as much as programming 🌿🌱
-* Enjoy good coffee ☕️
 
 
  
